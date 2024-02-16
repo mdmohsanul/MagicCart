@@ -38,7 +38,7 @@ export const Header = () => {
       <nav>
         <h1 className="header-name">
           <Link className="header-name-a" to="/">
-            MagicCart
+            TrendLoom
           </Link>
         </h1>
         <input
